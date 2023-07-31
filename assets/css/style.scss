@@ -108,7 +108,7 @@ img {
 header {
   width:500px;
   float:left;
-  font-size: 17px;
+  font-size: 15px;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -276,7 +276,7 @@ header {
 
 body {
   padding:50px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -297,12 +297,12 @@ h1 {
 }
 
 .wrapper {
-  width:1150px;
-  margin: 50 ;
+  width:900px;
+  margin: 0 auto;
 }
 
 section {
-  width:800px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
