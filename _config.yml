@@ -1,0 +1,15 @@
+title: 'Francesca Lucchetti'
+email: lucchetti.f@northeastern.edu
+email_personal: fr.lucchetti@gmail.com
+description: >- 
+  Ph.D. student at Khoury College of Computer Science.
+
+github_username:  franlucc
+logo: /assets/images/headshot.jpeg
+linkedin_username: flucchetti
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/minimal
