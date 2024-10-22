@@ -9,7 +9,7 @@
         Preprint.
     </span>
     <a href="https://www.khoury.northeastern.edu/home/arjunguha/main/papers/2024-lucchetti-prompt-trajectories.html" target="_blank" class="custom-button">
-        Link
+        Paper
     </a>
 </div>
 <div class="small-break"></div>
@@ -25,7 +25,7 @@
         Preprint.
     </span>
     <a href="https://arxiv.org/abs/2404.01903" target="_blank" class="custom-button">
-        Link
+        Paper
     </a>
 </div>
 <div class="small-break"></div>
@@ -42,7 +42,7 @@
     </span>
     <div class="button-stack">
         <a href="https://ieeexplore.ieee.org/abstract/document/10416558" target="_blank" class="custom-button">
-            Link
+            Paper
         </a>
         <div class="smaller-break"></div>
         <a href="https://amrl.cs.utexas.edu/codebotler/" target="_blank" class="custom-button">
@@ -63,7 +63,7 @@
         Proceedings of the ACM on Programming Languages, 8(OOPSLA2), 677-708.
     </span>
     <a href="https://dl.acm.org/doi/10.1145/3689735" target="_blank" class="custom-button">
-        Link
+        Paper
     </a>
 </div>
 <div class="small-break"></div>
