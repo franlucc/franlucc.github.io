@@ -19,3 +19,47 @@ h1 {
   font-size:27px;
   color: #267CB9;
 }
+
+.button-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.button-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: 10px;
+}
+
+.bold-text {
+  margin-right: 0px;
+}
+
+.text {
+  margin-right: 10px;
+}
+
+.blue-text {
+  color: #143AA2;
+}
+
+.custom-button {
+  background-color: lightgrey;
+  border: none;
+  border-radius: 8px;
+  font-family: Arial;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.small-break {
+  margin-top: 20px;
+}
+
+.smaller-break {
+  margin-top: 5px;
+}
