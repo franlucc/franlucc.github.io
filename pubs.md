@@ -8,7 +8,7 @@
         </span>
         Preprint.
     </span>
-    <a href="https://www.khoury.northeastern.edu/home/arjunguha/main/papers/2024-lucchetti-prompt-trajectories.html" target="_blank" class="custom-button">
+    <a href="https://arxiv.org/abs/2410.19792" target="_blank" class="custom-button">
         Paper
     </a>
 </div>
