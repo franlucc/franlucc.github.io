@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-*"A watched loss curve never converges." - Anonymous*
+*"A watched loss curve never converges." - A Wise Programmer*
 
 I'm a third year Ph.D. candidate advised by [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/){:target="_blank" :rel="noopener noreferrer"} in 
 the [Programming Research Laboratory](https://prl.khoury.northeastern.edu/){:target="_blank" :rel="noopener noreferrer"} at Northeastern University. 
