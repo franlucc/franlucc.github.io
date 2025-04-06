@@ -12,6 +12,7 @@
     <a href="https://arxiv.org/abs/2502.01584" target="_blank" class="custom-button">
         Paper
     </a>
+    <div class="smaller-break"></div>
     <a href="https://huggingface.co/spaces/nuprl/reasoning-weekly" target="_blank" class="custom-button">
         Demo
     </a>
