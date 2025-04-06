@@ -1,12 +1,33 @@
 ### Publications
 
+<div class="button-container" id="phd-knowledge">
+    <span class="text">
+        Wu, Z., <strong class="bold-text">Lucchetti, F.</strong>, Boruch-Gruszecki, A., Zhao, J., Anderson, C.J., Biswas, J., Cassano, F.,  Feldman, M. Q., & Guha, A. (2025).
+        <span class="blue-text">
+        PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models.
+        </span>
+        Preprint.
+    </span>
+    <div class="button-stack">
+    <a href="https://arxiv.org/abs/2502.01584" target="_blank" class="custom-button">
+        Paper
+    </a>
+    <a href="https://huggingface.co/spaces/nuprl/reasoning-weekly" target="_blank" class="custom-button">
+        Demo
+    </a>
+    </div>
+</div>
+<div class="small-break"></div>
+
+---
+
 <div class="button-container" id="substance-beats-style">
     <span class="text">
-        <strong class="bold-text">Lucchetti, F.</strong>, Wu, Z., Feldman, M. Q., Guha, A., & Anderson, C. J.,(2024).
+        <strong class="bold-text">Lucchetti, F.</strong>, Wu, Z., Feldman, M. Q., Guha, A., & Anderson, C. J.(2024).
         <span class="blue-text">
         Substance Beats Style: Why Beginning Students Fail to Code with LLMs.
         </span>
-        Preprint.
+        NAACL2025 Main Conference Oral.
     </span>
     <a href="https://arxiv.org/abs/2410.19792" target="_blank" class="custom-button">
         Paper
